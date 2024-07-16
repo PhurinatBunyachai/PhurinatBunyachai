@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Phurinat (Phu) 👋</h1>
+<h1 align="center">👋 Hi there, I'm Phurinat (Phu)</h1>
 
 <h2 align="left">About Me</h2>
 
-* 👨‍💻 Working since 2019
+* 👨‍💻 Software Developer working since 2019.
 * 💻 Working with JS mainly.
-* 🌱 I’m currently learning **Svelte**
+* 🤯 I’m currently learning **Svelte**.
 
 <h2 align="left">Skills</h2>
 
